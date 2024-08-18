@@ -1,4 +1,4 @@
-# <<<<<<< HEAD
+
 
 # Welcome to your Elvac, one stop vaccination booking application 👋
 
@@ -34,16 +34,11 @@
 
 # Recommended next steps:
 
-> > > > > > > Incoming
 
-<<<<<<< HEAD
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 =======
 Note: Make sure you have installed native code dependencies [here](https://reactnative.dev/docs/environment-setup#installing-dependencies)
 
-> > > > > > > Incoming
-
-<<<<<<< HEAD
 
 ## Get started
 
@@ -51,9 +46,7 @@ Note: Make sure you have installed native code dependencies [here](https://react
 
 ### To preview and run the project on your device:
 
-> > > > > > > Incoming
 
-<<<<<<< HEAD
 
 1. Install dependencies
 
@@ -108,4 +101,4 @@ Join our community of developers creating universal apps.
 5. Run on For android device
    1. Press `a` to view on Android Virtual Device or follow the instructions [here](https://docs.expo.dev/workflow/run-on-device/) to run on a physical device.
 
-> > > > > > > Incoming
+
